@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string-array name="snackbardemo">
+        <item>Default Snackbar</item>
+        <item>Action Call Snackbar</item>
+        <item>Custom View Snackbar</item>
+    </string-array>
+</resources>
